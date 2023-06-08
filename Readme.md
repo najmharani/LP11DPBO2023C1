@@ -16,9 +16,10 @@ Pada program ini terdapat dua halaman/page:
 - Form untuk menambah pasien baru
 - Jika digunakan untuk update maka akan menampilkan data lama yang telah tersimpan
 
+
 ## Dokumentasi
 
-
+https://github.com/najmharani/LP11DPBO2023C1/assets/90398797/dcc6cbfd-78ba-4c5c-8c14-b1a14f71823a
 
   <img
   src="ss.png"
